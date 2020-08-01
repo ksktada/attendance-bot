@@ -1,2 +1,2 @@
 # attendance-bot
-Learning 
+attendance bot
