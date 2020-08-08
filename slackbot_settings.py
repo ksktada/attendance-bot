@@ -10,5 +10,5 @@ DEFAULT_REPLY = "I dont't understand you."
 
 # プラグインスクリプトを置いてあるサブディレクトリ名のリスト
 PLUGINS = [
-    'mybot.plugins'
+    'mybot.plugins',
 ]

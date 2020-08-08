@@ -7,6 +7,6 @@ def hi(message):
     # react with thumb up emoji
     message.react('+1')
 
-@respond_to('[0-9]')
-def hi(message):
-    message.reply('I love number!')
+@respond_to(':[0-5][0-9]')
+def input_time(message):
+    message.reply('time!')
